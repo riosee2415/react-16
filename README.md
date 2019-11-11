@@ -7,3 +7,7 @@
 ## Portals
 
 - 리액트 root 밖에 리액트 컴포넌트를 넣을 수 있게 한다.
+
+## Error Boundares
+
+- Error을 관리할 수 있다. (Portals Component가 Error을 발생시킨 경우, render한 App Component가 Error를 제어할 수 있다.)
