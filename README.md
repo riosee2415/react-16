@@ -11,3 +11,7 @@
 ## Error Boundares
 
 - Error을 관리할 수 있다. (Portals Component가 Error을 발생시킨 경우, render한 App Component가 Error를 제어할 수 있다.)
+
+## Higher Order HOC
+
+- Error Boundares와 HOC을 사용하여 모든 컴포넌트를 보호할 수 있다.
